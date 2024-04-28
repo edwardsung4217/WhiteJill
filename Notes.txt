@@ -1,9 +1,0 @@
-Endpoints needed:
-    - Create user
-    - Delete user
-    - Update User demographics
-    - Return user information
-    - 
-
-Table User:
-    -User Key | First Name | Last Name | Age | Wins | Losses | Available Cash
