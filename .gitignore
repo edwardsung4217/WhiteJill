@@ -1,2 +1,3 @@
-WhiteJill\Assets\*
-Assets\*
+Assets/*
+Library/*
+/Temp
